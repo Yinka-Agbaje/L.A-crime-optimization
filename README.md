@@ -1,4 +1,7 @@
 # 🚔 L.A-crime-optimization-Public-Safety-Resource-Allocation-Audit
+![Status: Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square)
+![Category: Geospatial Analytics](https://img.shields.io/badge/Category-Geospatial_Analytics-blue?style=flat-square)
+![Impact: Public Safety](https://img.shields.io/badge/Impact-Public_Safety-orange?style=flat-square)
 
 **An analytical study of criminal behavior patterns in Los Angeles to drive data-informed strategies for law enforcement resource distribution.**
 
@@ -44,6 +47,16 @@ Victim analysis reveals that individuals in the **26-34 age bracket** are the mo
 | **Temporal** | Peak Crime at 12:00 | Optimize Midday Shift overlap. |
 | **Geospatial** | Central Area Night Cluster | Increase nocturnal patrols in Central. |
 | **Demographic** | 26-34 Age Bracket | Deploy targeted community safety programs. |
+
+---
+
+### 📊 Data Visualization: Temporal Crime Patterns
+---
+<p align="center">
+  <img src="images/crime_images.png" alt="LA Crime Frequency by Hour" width="100%">
+</p>
+
+*Distribution of criminal incidents by hour of occurrence, highlighting a significant peak at 12:00 PM.*
 
 ---
 ## 🏛️ Recommendations
